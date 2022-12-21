@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eniminio
-- 👀 I’m interested in every in interesting thing!
+- 👀 I’m interested in every funny thing!
 - 🌱 I’m currently work as a game back-end engineer
 
 <!---
